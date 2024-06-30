@@ -1,0 +1,251 @@
+.author {
+    display: block;
+    font-size: 1.125em;
+    line-height: 1.2;
+    padding-bottom: 3%;
+    text-align: center;
+    margin: 5%
+    }
+.bold {
+    font-weight: bold
+    }
+.bolditalic {
+    font-style: italic;
+    font-weight: bold
+    }
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify;
+    margin: 0 5pt
+    }
+.calibre1 {
+    display: block
+    }
+.calibre2 {
+    color: blue;
+    text-decoration: none
+    }
+.calibre3 {
+    font-size: 0.75em
+    }
+.calibre4 {
+    display: block;
+    padding-top: 2%;
+    text-indent: 3%;
+    margin: 1em 0
+    }
+.calibre5 {
+    height: auto;
+    width: auto
+    }
+.calibre6 {
+    font-style: italic
+    }
+.calibre7 {
+    display: block;
+    font-size: 1.41667em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 10% 0 6%;
+    border-bottom: black solid 1px
+    }
+.calibre8 {
+    height: 0.8em;
+    width: auto
+    }
+.calibre9 {
+    display: block;
+    margin: 1em
+    }
+.citation {
+    display: block;
+    margin-left: 2%;
+    margin-top: 1%;
+    padding-top: 1%;
+    text-indent: -3%
+    }
+.dedication {
+    display: block;
+    font-style: italic;
+    text-align: center;
+    padding: 3%
+    }
+.def {
+    display: block;
+    margin-left: 8%;
+    padding-bottom: 0.5em
+    }
+.def-list {
+    display: block;
+    margin: 1em 0;
+    border: currentColor none medium
+    }
+.fig {
+    display: block;
+    font-weight: normal;
+    margin-bottom: 4%;
+    margin-top: 1%;
+    page-break-inside: avoid;
+    text-align: left
+    }
+.half-title {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0.67em 0
+    }
+.imprints-line {
+    display: block;
+    padding-bottom: 0;
+    padding-top: 0
+    }
+.imprints-list {
+    display: block;
+    padding-top: 2%
+    }
+.index {
+    display: block;
+    text-indent: 2em;
+    padding: 0
+    }
+.index-list {
+    display: block;
+    margin-top: 1em
+    }
+.index1 {
+    display: block;
+    text-indent: 3em;
+    padding: 0
+    }
+.index2 {
+    display: block;
+    text-indent: 4em;
+    padding: 0
+    }
+.italic {
+    font-style: italic;
+    font-weight: normal
+    }
+.label {
+    padding-right: 20px
+    }
+.label1 {
+    padding-right: 1%
+    }
+.label2 {
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.2;
+    padding-right: 1%
+    }
+.label3 {
+    font-weight: bold;
+    padding-right: 2%
+    }
+.logo {
+    display: block;
+    margin-top: 10%
+    }
+.noindent {
+    display: block;
+    padding-top: 2%;
+    text-indent: 0;
+    margin: 1em 0
+    }
+.noindent1 {
+    display: block;
+    padding-bottom: 0;
+    padding-top: 0;
+    text-indent: 0;
+    margin: 0
+    }
+.poetry {
+    display: block;
+    margin-left: 2em;
+    text-indent: -2em
+    }
+.ref-sec {
+    display: block;
+    font-size: 1.125em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: left;
+    margin: 3% 0 1%
+    }
+.sec {
+    display: block;
+    font-size: 1.125em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: left;
+    margin: 5% 0 2%
+    }
+.series-name {
+    display: block;
+    font-size: 1.125em;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.subtitle {
+    line-height: 1.2;
+    padding-left: 0.5em
+    }
+.surname {
+    line-height: 1.2
+    }
+.term {
+    display: block;
+    font-weight: bold;
+    margin: 0;
+    border: currentColor none medium
+    }
+.title {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.title-info {
+    display: block;
+    text-align: center
+    }
+.title-info1 {
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    padding-bottom: 2em;
+    text-align: center;
+    text-indent: 0;
+    margin: 10% 0 0.67em
+    }
+.toc-chapter_label {
+    display: block;
+    text-align: left;
+    text-indent: 0
+    }
+.toc-item {
+    display: block;
+    font-style: italic;
+    text-align: left
+    }
+.toc-sim-p {
+    display: block;
+    text-indent: 4%
+    }
+.pcalibre1:visited {
+    color: blue;
+    text-decoration: none
+    }
+.pcalibre2:hover {
+    color: #930;
+    text-decoration: underline
+    }
+.pcalibre:active {
+    color: blue;
+    text-decoration: none
+    }

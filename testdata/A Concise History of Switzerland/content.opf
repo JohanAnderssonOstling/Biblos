@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:creator opf:file-as="Church, Clive H." opf:role="aut">Clive H. Church</dc:creator>
+    <dc:creator opf:file-as="Church, Clive H." opf:role="aut">Randolph C. Head</dc:creator>
+    <dc:contributor opf:role="bkp">calibre (2.72.0) [https://calibre-ebook.com]</dc:contributor>
+    <meta name="cover" content="cover"/>
+    <dc:language>en</dc:language>
+    <dc:title>A Concise History of Switzerland (Cambridge Concise Histories)</dc:title>
+    <meta name="calibre:timestamp" content="2017-02-25T08:14:37.772584+00:00"/>
+    <dc:identifier opf:scheme="MOBI-ASIN">B00CMNTE1Y</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">816e4445-8eef-426d-97b6-297aacf9c55e</dc:identifier>
+    <dc:rights>Clive H. Church and Randolph C. Head 2013</dc:rights>
+    <dc:publisher>Cambridge University Press</dc:publisher>
+    <dc:date>2013-06-30T00:00:00+00:00</dc:date>
+  </metadata>
+  <manifest>
+    <item href="images/00059.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="images/00001.gif" id="id73" media-type="image/gif"/>
+    <item href="images/00002.gif" id="id78" media-type="image/gif"/>
+    <item href="images/00003.jpeg" id="id54" media-type="image/jpeg"/>
+    <item href="images/00004.gif" id="id39" media-type="image/gif"/>
+    <item href="images/00005.gif" id="id83" media-type="image/gif"/>
+    <item href="images/00006.gif" id="id44" media-type="image/gif"/>
+    <item href="images/00007.gif" id="id80" media-type="image/gif"/>
+    <item href="images/00008.gif" id="id79" media-type="image/gif"/>
+    <item href="images/00009.gif" id="id27" media-type="image/gif"/>
+    <item href="images/00010.gif" id="id49" media-type="image/gif"/>
+    <item href="images/00011.gif" id="id60" media-type="image/gif"/>
+    <item href="images/00012.gif" id="id34" media-type="image/gif"/>
+    <item href="images/00013.gif" id="id47" media-type="image/gif"/>
+    <item href="images/00014.jpeg" id="id48" media-type="image/jpeg"/>
+    <item href="images/00015.gif" id="id62" media-type="image/gif"/>
+    <item href="images/00016.gif" id="id86" media-type="image/gif"/>
+    <item href="images/00017.gif" id="id41" media-type="image/gif"/>
+    <item href="images/00018.gif" id="id40" media-type="image/gif"/>
+    <item href="images/00019.jpeg" id="id59" media-type="image/jpeg"/>
+    <item href="images/00020.gif" id="id36" media-type="image/gif"/>
+    <item href="images/00021.gif" id="id33" media-type="image/gif"/>
+    <item href="images/00022.gif" id="id74" media-type="image/gif"/>
+    <item href="images/00023.gif" id="id52" media-type="image/gif"/>
+    <item href="images/00024.gif" id="id69" media-type="image/gif"/>
+    <item href="images/00025.gif" id="id51" media-type="image/gif"/>
+    <item href="images/00026.gif" id="id63" media-type="image/gif"/>
+    <item href="images/00027.gif" id="id66" media-type="image/gif"/>
+    <item href="images/00028.gif" id="id70" media-type="image/gif"/>
+    <item href="images/00029.gif" id="id29" media-type="image/gif"/>
+    <item href="images/00030.gif" id="id32" media-type="image/gif"/>
+    <item href="images/00031.gif" id="id77" media-type="image/gif"/>
+    <item href="images/00032.jpeg" id="id81" media-type="image/jpeg"/>
+    <item href="images/00033.gif" id="id28" media-type="image/gif"/>
+    <item href="images/00034.gif" id="id55" media-type="image/gif"/>
+    <item href="images/00035.gif" id="id76" media-type="image/gif"/>
+    <item href="images/00036.gif" id="id30" media-type="image/gif"/>
+    <item href="images/00037.gif" id="id64" media-type="image/gif"/>
+    <item href="images/00038.gif" id="id45" media-type="image/gif"/>
+    <item href="images/00039.jpeg" id="id58" media-type="image/jpeg"/>
+    <item href="images/00040.gif" id="id57" media-type="image/gif"/>
+    <item href="images/00041.gif" id="id75" media-type="image/gif"/>
+    <item href="images/00042.jpeg" id="id68" media-type="image/jpeg"/>
+    <item href="images/00043.gif" id="id38" media-type="image/gif"/>
+    <item href="images/00044.gif" id="id56" media-type="image/gif"/>
+    <item href="images/00045.gif" id="id65" media-type="image/gif"/>
+    <item href="images/00046.gif" id="id50" media-type="image/gif"/>
+    <item href="images/00047.gif" id="id37" media-type="image/gif"/>
+    <item href="images/00048.gif" id="id43" media-type="image/gif"/>
+    <item href="images/00049.gif" id="id82" media-type="image/gif"/>
+    <item href="images/00050.gif" id="id84" media-type="image/gif"/>
+    <item href="images/00051.gif" id="id61" media-type="image/gif"/>
+    <item href="images/00052.gif" id="id35" media-type="image/gif"/>
+    <item href="images/00053.gif" id="id46" media-type="image/gif"/>
+    <item href="images/00054.gif" id="id42" media-type="image/gif"/>
+    <item href="images/00055.gif" id="id72" media-type="image/gif"/>
+    <item href="images/00056.gif" id="id71" media-type="image/gif"/>
+    <item href="images/00057.gif" id="id67" media-type="image/gif"/>
+    <item href="images/00058.gif" id="id85" media-type="image/gif"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="text/part0000.html" id="id4" media-type="application/xhtml+xml"/>
+    <item href="text/part0001.html" id="id10" media-type="application/xhtml+xml"/>
+    <item href="text/part0002.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="text/part0003_split_000.html" id="id172" media-type="application/xhtml+xml"/>
+    <item href="text/part0003_split_001.html" id="id171" media-type="application/xhtml+xml"/>
+    <item href="text/part0004.html" id="id9" media-type="application/xhtml+xml"/>
+    <item href="text/part0005.html" id="id7" media-type="application/xhtml+xml"/>
+    <item href="text/part0006.html" id="id20" media-type="application/xhtml+xml"/>
+    <item href="text/part0007.html" id="id5" media-type="application/xhtml+xml"/>
+    <item href="text/part0008.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="text/part0009.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="text/part0010.html" id="id8" media-type="application/xhtml+xml"/>
+    <item href="text/part0011.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="text/part0012.html" id="id3" media-type="application/xhtml+xml"/>
+    <item href="text/part0013.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="text/part0014.html" id="id18" media-type="application/xhtml+xml"/>
+    <item href="text/part0015.html" id="id25" media-type="application/xhtml+xml"/>
+    <item href="text/part0016.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="text/part0017.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="text/part0018.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="text/part0019.html" id="id26" media-type="application/xhtml+xml"/>
+    <item href="text/part0020.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="text/part0021.html" id="id6" media-type="application/xhtml+xml"/>
+    <item href="text/part0022.html" id="id11" media-type="application/xhtml+xml"/>
+    <item href="text/part0023.html" id="id2" media-type="application/xhtml+xml"/>
+    <item href="text/part0024_split_000.html" id="id142" media-type="application/xhtml+xml"/>
+    <item href="text/part0024_split_001.html" id="id141" media-type="application/xhtml+xml"/>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id4"/>
+    <itemref idref="id10"/>
+    <itemref idref="id23"/>
+    <itemref idref="id172"/>
+    <itemref idref="id171"/>
+    <itemref idref="id9"/>
+    <itemref idref="id7"/>
+    <itemref idref="id20"/>
+    <itemref idref="id5"/>
+    <itemref idref="id13"/>
+    <itemref idref="id24"/>
+    <itemref idref="id8"/>
+    <itemref idref="id12"/>
+    <itemref idref="id3"/>
+    <itemref idref="id15"/>
+    <itemref idref="id18"/>
+    <itemref idref="id25"/>
+    <itemref idref="id19"/>
+    <itemref idref="id16"/>
+    <itemref idref="id22"/>
+    <itemref idref="id26"/>
+    <itemref idref="id21"/>
+    <itemref idref="id6"/>
+    <itemref idref="id11"/>
+    <itemref idref="id2"/>
+    <itemref idref="id142"/>
+    <itemref idref="id141"/>
+  </spine>
+  <guide>
+    <reference href="text/part0005.html#4OIQ1-8066886e5b004757b98047d065a9af03" title="Contents" type="toc"/>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+    <reference href="text/part0024_split_000.html#page_310" title="Index" type="index"/>
+    <reference href="text/part0002.html#1T141-8066886e5b004757b98047d065a9af03" title="Begin reading" type="text"/>
+  </guide>
+</package>
