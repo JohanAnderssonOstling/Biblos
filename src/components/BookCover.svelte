@@ -1,8 +1,9 @@
 <script lang="ts">
     import {getContext, onMount} from "svelte";
     import BookReader from "../pages/BookReader.svelte";
-    import {tauri} from "@tauri-apps/api";
-    interface Book  {title: string; path:   string; cover:  string;}
+	import {invoke} from "@tauri-apps/api/core"
+
+	interface Book  {title: string; path:   string; cover:  string;}
     export let book_path: string
     let book: Book
     let loading = true
@@ -10,9 +11,10 @@
     const { push ,pop} = getContext("stackview");
 
     onMount(() => {
-	    tauri.invoke("get_book_cover", {path: book_path}).then((cover) => {
+	    invoke("get_book_cover", {path: book_path}).then((cover) => {
             book = cover    ;loading = false
         })
+        console.log("hello")
     })
 
     function openBook(path: string) {
@@ -36,19 +38,20 @@
         flex-direction: column;
         text-align: center;
         justify-content: flex-end;
-        transition: box-shadow 0.3s ease;
         height: 350px;
-        max-width: 200px;
+        width: 200px;
     }
 
     .cover:hover {
-        box-shadow: 0 8px 16px rgba(0, 0, 0, 1);
+        box-shadow: 4px 4px 16px rgba(0, 0, 0, 0.8);
         background: rgba(0,0,0,0.3);
     }
     .cover {
         width: 200px;
-        border-radius: 8px;
-        box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.9);
+        height: 300px;
+        border: 1px solid #aaa; border-radius: 4px;
+        box-shadow: 4px 4px 16px rgba(0, 0, 0, 0.5);
+        cursor: pointer;
     }
 
     span {

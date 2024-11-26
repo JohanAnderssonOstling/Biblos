@@ -7,3 +7,7 @@
     <StackView root="{Home}"/>
 </main>
 
+<style>
+    .container {
+    }
+</style>

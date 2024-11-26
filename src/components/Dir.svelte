@@ -3,7 +3,7 @@ import BookCover from "./BookCover.svelte";
 import {ScrollArea} from "$lib/components/ui/scroll-area/index.js";
 import {getContext, onMount} from "svelte";
 import Book from "./BookCover.svelte";
-import {tauri} from "@tauri-apps/api";
+import {core} from "@tauri-apps/api";
 import Library from "../pages/Library.svelte";
 
 const { push ,pop} = getContext("stackview");

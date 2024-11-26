@@ -17,8 +17,15 @@ class BookParser {
             case "dl"       :   this.parse_children(elem);  break
             case "div"      :   this.parse_div(elem);       break
             case "a"        :   this.links[elem.nodeValue]; this.parse_children(elem);  break
+            case "img"      :   this.append_elem(this.parse_img(elem));
             default         :   this.append_elem(elem);     break
         }
+    }
+
+    parse_img(elem: HTMLElement) : HTMLElement {
+        elem.style.width = "100%"
+        elem.style.height = "100%"
+        return elem;
     }
 
     parse_div(elem: HTMLElement) {
@@ -49,7 +56,11 @@ class BookParser {
 
     modify_elem(elem: HTMLElement) {
         if (elem.getAttribute("id"))    this.links[elem.getAttribute("id")] = this.count
-        if (elem.nodeName == "A")       {return;}
+        //if (elem.nodeName == "A")       {return;}
+        if (elem.nodeName == "SUP") console.log(this.links)
+        //elem.style.textAlign = "left"
+        elem.innerText.replace(". ", "\n");
+        elem.style.marginBottom = "1em"
 
         let tagName = elem.tagName.toLowerCase()
         if (tagName == "img") {
